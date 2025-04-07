@@ -38,6 +38,3 @@ If you still don't know about me? [Jump to](#about-me)
 ## Roadmap
 
 - [ ] TBD
-=======
-Note: This project is part of my CSE 110 coursework at UC San Diego. Here is the URL to the publish site: <https://chencheng-li.github.io/CSE110_Lab1/>
-
